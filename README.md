@@ -1,2 +1,4 @@
-# pinterest_recommendation
-Recommendation made from pinterest private account
+# ReactJSHelloWorld
+
++ npm install
++ npm start
